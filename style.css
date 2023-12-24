@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+.name-highlight{
+    color: blueviolet;
+}
+h3{
+    font-size: 40px;
+
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+    margin-top: 50px;
+
+}
+.half-width img{
+    width:100%;
+}
+#middle{
+    margin-top: 100px;
+}
+.top-banner{
+    background-image: url(images/personal-website/header-bg.png);
+    background-repeat: no-repeat;
+
+}
+.dreem-banner{
+    background-image:url(images/personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+section{
+    height:500px;
+    padding:200px;
+
+}
+#bio-graphy{
+    margin-top:100px;
+}
+.letest-work{
+    text-align: center;
+    font-size: 40px;
+    margin: 0 auto;
+}
