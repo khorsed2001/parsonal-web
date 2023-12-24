@@ -41,7 +41,7 @@ h3{
 
 section{
     height:500px;
-    padding:200px;
+    padding:150px;
 
 }
 #bio-graphy{
@@ -51,4 +51,47 @@ section{
     text-align: center;
     font-size: 40px;
     margin: 0 auto;
+}
+.work-banner{
+    background-image:url(images/personal-website/latest-work-bg.png);
+    background-position: 100%;
+    margin:0 auto;
+}
+.image{
+    float:left;
+    width:28%;
+    padding:2%;
+
+}
+.image #pic{
+
+    width:100%;
+    height:260px;
+
+
+}
+.footer-text{
+    text-align:center;
+}
+
+#cliend{
+    font-size: 40px;
+    font-family:'Poppins';
+    font-weight:400px;
+    margin-bottom:100px;
+}
+.ceo{
+    margin-top: 20px;
+    line-height:10px;
+}
+.ceo p{
+    color:gray;
+
+}
+.text{
+    margin-top:50px;
+}
+.big-button{
+    text-align:center;
+
 }
