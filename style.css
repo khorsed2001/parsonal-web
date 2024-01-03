@@ -93,5 +93,11 @@ section{
 }
 .big-button{
     text-align:center;
+    background-color: red;
+    width:500px;
+    margin:0 auto;
+    padding:15px;
+    border-radius: 30px;
+
 
 }
